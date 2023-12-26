@@ -1,0 +1,1711 @@
+fileFormatVersion: 2
+guid: e4d3207e1457a4d5b8d6e5b6da5b21e2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cricket_character_0
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 45
+        width: 514
+        height: 1044
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b9eab76c8a24c17a017b185c66b4c0
+      internalID: 1973179466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_1
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 617
+        width: 129
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8814a49a305f94fbf95dbc7552207705
+      internalID: 1898729749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_2
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 617
+        width: 129
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e780361a1c245431e8bc4c81711da23d
+      internalID: -62197658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_3
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 621
+        width: 113
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a4a2bb487614f05895fef4f4dbad98
+      internalID: 1896019110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_4
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 626
+        width: 129
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb326bfb3b824ce49a7e8bdc0a00c7e
+      internalID: -666069683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_5
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 621
+        width: 135
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2473c8eee3bda45dfb0614ef267545c6
+      internalID: -457517747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_6
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 932
+        width: 78
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f367f44a8ad7a4d8f8d89f7a22abcd21
+      internalID: 1601742898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_7
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 937
+        width: 73
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1586e1b296c8406fa1bebc442b46820
+      internalID: 467666961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_8
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 934
+        width: 90
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e9d64e6244a474ca206aaa57448b27
+      internalID: 1466565078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_9
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 800
+        width: 78
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392b78656a8e64ffeba0dd6cccafb294
+      internalID: 1589321867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_10
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 805
+        width: 73
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a34a427ea934bd38c78e11dfcf9a4f
+      internalID: 185988741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_11
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 802
+        width: 91
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93cefc13ff0e4ca1b22a2e8bfddb40d
+      internalID: 1105456827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_12
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 669
+        width: 78
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6dc3d40abf004b81a11b2707b844fef
+      internalID: -370507997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_13
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 674
+        width: 73
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9981b11a018874d73b75f887684a5cfa
+      internalID: 142627452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_14
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 671
+        width: 91
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8050804b80a44d54b738413284ad0bb
+      internalID: 1101164235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_15
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 422
+        width: 80
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1959e60090d204f8f891c68d99c768ff
+      internalID: -984219178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_16
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 440
+        width: 100
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1874d7791dc7c42048d1a2805c0bf21e
+      internalID: -1080605363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_17
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 454
+        width: 105
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10e83db9067c4fd4b4dcceab6f94813
+      internalID: -1408918716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_18
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 470
+        width: 114
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0608fa230053d47f48f03e7f2b4fcdfb
+      internalID: -642627546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_19
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 503
+        width: 97
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4299a33cbb1eb40b0b5f174f7e17d171
+      internalID: 1831141904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_20
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 503
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680d2dc57775b499ba4883555e231097
+      internalID: 837525523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_21
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 545
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fb715e28a9f4f67a3b7200141c8113
+      internalID: 415682039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_22
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 541
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2c86fcc26b64fbda37ab409e501359
+      internalID: 1476507303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_23
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 543
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028f9c59e1d9a44828f3b6152c9546f4
+      internalID: -1072082666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_24
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 539
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38c69ff4cd0c4ef6b39bc719979c3b2
+      internalID: -1580962214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_25
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 534
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ea1bc13e20a463c90218d916df6091
+      internalID: -1204610510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_26
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 538
+        width: 78
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f457a3df5bb154e098d46c493748c93d
+      internalID: -388280520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_27
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 542
+        width: 73
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1afcc4767c14562b054d7da84bb597
+      internalID: 619721436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_28
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 540
+        width: 91
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fa7f723746f4cc9b2042b5be374bb3
+      internalID: 347192258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_29
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 492
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a55ef9ace534c05b58a81ebdc40f7a
+      internalID: 1368700185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_30
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 491
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61f6c37b292e4d3aad103ca27c6c77f
+      internalID: -2021034828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_31
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 489
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c7a187378974bfe9af2c6a2a27eb83
+      internalID: -1973602176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_32
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 490
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e14e4b0f591244de84d67ecc6e40e8b
+      internalID: -1080585512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_33
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 487
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495497b7845a64b96b54f093741485a7
+      internalID: 413129125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_34
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 406
+        width: 78
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2aa7fe810fd14b0b97e875f587d3a97
+      internalID: -1521042158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_35
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 411
+        width: 73
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2681b8bf55214a068eeff4383ee0d26
+      internalID: 177571590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_36
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 408
+        width: 91
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5354de3bcbd4910af97597ca8e3d54
+      internalID: -885368796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_37
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 210
+        width: 51
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28133e3d751644acbb41c82273de5713
+      internalID: 419321373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_38
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 208
+        width: 78
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ea47eb3eb3e43adb51623d598a6e01
+      internalID: 1737135954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_39
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 429
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353cc8136e32b4984bb3823227e8e0a1
+      internalID: 1284149223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_40
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 428
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc8af6233db04b8b9b22825354a8db7
+      internalID: 1319459277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_41
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 431
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bc0d4da716347d9be03474e5acbdbf
+      internalID: -55518756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_42
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 432
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e37e7bedf5a2430e8e9acbee54bfaf7
+      internalID: -1837499839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_43
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 432
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f011ff537204419951a0d15e6ed5e4
+      internalID: -1849812315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_44
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 208
+        width: 103
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97831499aeb79406fa29e73c7388b3b5
+      internalID: -1598137333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_45
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 210
+        width: 118
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0c3620dc5ab40bd944791ee38d8032
+      internalID: 915567500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_46
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 208
+        width: 125
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5aced43617ca486f8bbbac6eb705ec3
+      internalID: -72374590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_47
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 208
+        width: 120
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7286e77b7cf4882b759b9e0b1da3d5
+      internalID: -1479809598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_48
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 261
+        width: 108
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e3f246f14b74b29bb9a6a81fffade9
+      internalID: 1353454718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_49
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 298
+        width: 129
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8efdd4f613543bab8e402587ca7936
+      internalID: 364635087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_50
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 314
+        width: 110
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fc18127e81f4d38a8a1badb3f7fcfe
+      internalID: 1845312212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_51
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 310
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a44bc7ce62be4759a35d14d6195eecf
+      internalID: 246419572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_52
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 310
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f888f1ef67d4f04958ae5b2b71bdf1
+      internalID: -738291961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_53
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 299
+        width: 34
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747589135796948f1bcdc2d3c4ec30fd
+      internalID: -304643017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_54
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 136
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1ff64e3708340b48b27e25a19d9deb
+      internalID: 1464907484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_55
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 72
+        width: 97
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ffed635075945d783fe801894e80d7
+      internalID: 167070167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_56
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 56
+        width: 28
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b18416733b34937b3accd6bf0316fd
+      internalID: -417239531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_57
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 175
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bd3ef4fa298407e9676e853c69191b
+      internalID: -887345586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_58
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 50
+        width: 46
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92e58e9857ff4f7cbb48bea061206da
+      internalID: -1634745914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_59
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 73
+        width: 91
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c601230244c5245e6ae8ac3d67030bf1
+      internalID: -1120247280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_60
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 70
+        width: 31
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5628aea82e62f419fae45c8fbac41f28
+      internalID: -1523820541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_61
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 70
+        width: 18
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bae24418c6d84d87b553cd62cb5a0b0
+      internalID: 1567999201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_62
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 80
+        width: 94
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce8b8a4f1a354e2798912b9019e5b80
+      internalID: -1251196073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_63
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 86
+        width: 52
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adecff0274484918b4e9c52ceacbc44
+      internalID: 841156099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_64
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 72
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6f954b62bcd427ab114733ec8fb00e
+      internalID: 1057934731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_65
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 134
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83250ae9757244568bdbb4aa5a4b11b3
+      internalID: 367258394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_66
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 69
+        width: 67
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9a9332fa4324f8b9b39edafd672b71
+      internalID: 1669854779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_67
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 75
+        width: 69
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354f09bb9f6ee4e5cbe3ebfe6fd67fc5
+      internalID: -1846066380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_68
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 77
+        width: 76
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d330552d16047119a946f8fd8363b5
+      internalID: 465329752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cricket_character_69
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 78
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5d9ec118d9449009dfb525956d3fe8
+      internalID: 333452024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      cricket_character_0: 1973179466
+      cricket_character_1: 1898729749
+      cricket_character_10: 185988741
+      cricket_character_11: 1105456827
+      cricket_character_12: -370507997
+      cricket_character_13: 142627452
+      cricket_character_14: 1101164235
+      cricket_character_15: -984219178
+      cricket_character_16: -1080605363
+      cricket_character_17: -1408918716
+      cricket_character_18: -642627546
+      cricket_character_19: 1831141904
+      cricket_character_2: -62197658
+      cricket_character_20: 837525523
+      cricket_character_21: 415682039
+      cricket_character_22: 1476507303
+      cricket_character_23: -1072082666
+      cricket_character_24: -1580962214
+      cricket_character_25: -1204610510
+      cricket_character_26: -388280520
+      cricket_character_27: 619721436
+      cricket_character_28: 347192258
+      cricket_character_29: 1368700185
+      cricket_character_3: 1896019110
+      cricket_character_30: -2021034828
+      cricket_character_31: -1973602176
+      cricket_character_32: -1080585512
+      cricket_character_33: 413129125
+      cricket_character_34: -1521042158
+      cricket_character_35: 177571590
+      cricket_character_36: -885368796
+      cricket_character_37: 419321373
+      cricket_character_38: 1737135954
+      cricket_character_39: 1284149223
+      cricket_character_4: -666069683
+      cricket_character_40: 1319459277
+      cricket_character_41: -55518756
+      cricket_character_42: -1837499839
+      cricket_character_43: -1849812315
+      cricket_character_44: -1598137333
+      cricket_character_45: 915567500
+      cricket_character_46: -72374590
+      cricket_character_47: -1479809598
+      cricket_character_48: 1353454718
+      cricket_character_49: 364635087
+      cricket_character_5: -457517747
+      cricket_character_50: 1845312212
+      cricket_character_51: 246419572
+      cricket_character_52: -738291961
+      cricket_character_53: -304643017
+      cricket_character_54: 1464907484
+      cricket_character_55: 167070167
+      cricket_character_56: -417239531
+      cricket_character_57: -887345586
+      cricket_character_58: -1634745914
+      cricket_character_59: -1120247280
+      cricket_character_6: 1601742898
+      cricket_character_60: -1523820541
+      cricket_character_61: 1567999201
+      cricket_character_62: -1251196073
+      cricket_character_63: 841156099
+      cricket_character_64: 1057934731
+      cricket_character_65: 367258394
+      cricket_character_66: 1669854779
+      cricket_character_67: -1846066380
+      cricket_character_68: 465329752
+      cricket_character_69: 333452024
+      cricket_character_7: 467666961
+      cricket_character_8: 1466565078
+      cricket_character_9: 1589321867
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
